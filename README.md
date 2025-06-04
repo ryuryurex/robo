@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](https://github.com/ryuryurex/robo/blob/main/LICENSE)
 # robo
 
 ## 概要
