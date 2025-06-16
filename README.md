@@ -5,7 +5,7 @@
 -　知能ロボコンのリポジトリ
 
 ## 実行環境
-* Ubuntu 22.04.5 LTS
+* Ubuntu 20.04.5 LTS
 * Python 3.10.12
 
 ## Copyright
